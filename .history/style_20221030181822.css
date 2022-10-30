@@ -78,15 +78,10 @@ nav{
 
 .title-article{
     font-size: 1.9em;
-    font-family: var(--fonte-titulo);
+    font-family: ;
     text-align: center;
     padding-bottom: 15px;
     text-decoration: underline overline;
-}
-
-article{
-
-    margin-bottom: 0px;
 }
 
 p{

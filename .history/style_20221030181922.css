@@ -84,16 +84,12 @@ nav{
     text-decoration: underline overline;
 }
 
-article{
-
-    margin-bottom: 0px;
-}
-
 p{
     text-align: justify;
     text-indent: 2em;
     font-size: 1.5em;
     margin-right: 60px;
     margin-left: 40px;
+    
 }
 

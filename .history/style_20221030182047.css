@@ -60,7 +60,7 @@ nav{
 }
 
 .image{
-    background-color: rgb(237, 213, 59);
+    background-color: rgb(237, 219, 59);
     text-align: center;
     border-radius: 6px;
     padding-top: 20px;
@@ -86,7 +86,7 @@ nav{
 
 article{
 
-    margin-bottom: 0px;
+    margin-bottom: 50px;
 }
 
 p{
