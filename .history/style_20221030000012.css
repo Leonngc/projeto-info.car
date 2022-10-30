@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(227, 23, 10);
+    height: 40vh;
+}
+
+header > img{
+    position: absolute;
+    text-align: center;
+}
