@@ -47,7 +47,7 @@ nav{
     transition-duration: 0.5s;
 }
 #boas-vindas{
-    margin-bottom: 300px;
+    padding-bottom: 60px;
 }
 #boas-vindas > h1{
     text-align: center;

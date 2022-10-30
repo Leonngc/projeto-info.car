@@ -1,0 +1,23 @@
+@charset "UTF 8";
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 30px;
+    margin-bottom: 20px;
+    background-color: rgb(224, 202, 60);
+}
+
+#section-buttons{
+    display: flex;
+}
+
+.title{
+    font-family: 'Michroma', sans-serif;
+    text-align: center;
+    font-weight: bolder;
+}
