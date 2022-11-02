@@ -152,9 +152,3 @@ footer > h1{
     text-align: center;
     font-family: var(--fonte-titulo);
 }
-
-footer > p{
-    font-family: monospace;
-    text-align: justify;
-    text-justify: distribute;
-}

@@ -67,17 +67,9 @@ main{
     max-width: 1000px;
 }
 
-
- img{
-   width: 70%;
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-    }
-
-    legend{
-        padding-bottom: 90px;
-        text-align: center;
+ .image{
+   width: 100%;
+   margin: 30px 100px 50px 100px;
     }
 
     .img-pequena{
@@ -95,18 +87,9 @@ main{
     text-decoration: underline overline;
 }
 
- .texts{
-    margin-bottom: 180px;
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.495);
-    border-radius: 5px;
-    
-    border-width: 12px;
-}
+article{
 
- h2{
-    font-family: var(--fonte-titulo);
-    text-align: center;
-   
+    margin-bottom: 0px;
 }
 
 p{
@@ -119,42 +102,3 @@ p{
     margin-left: 40px;
 }
 
-.references{
-    
-    font-style: italic;
-    font-size: 25px;
-    color: #ffffff;
-    background-color: #101010;
-    border-radius: 4px;
-    padding: 20px;
-}
-
-.references > a{
-    text-decoration: none;
-    color: yellow;
-    font-weight: bold;
-}
-
-.references > a:hover{
-    text-decoration: underline;
-}
-
-footer{
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-bottom: 20px;
-    color: white;
-    background-color: #000000;
-}
-
-footer > h1{
-    padding: 10px;
-    text-align: center;
-    font-family: var(--fonte-titulo);
-}
-
-footer > p{
-    font-family: monospace;
-    text-align: justify;
-    text-justify: distribute;
-}

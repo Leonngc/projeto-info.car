@@ -140,21 +140,14 @@ p{
 }
 
 footer{
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 50vw;
+    margin-right: 50v;
     margin-bottom: 20px;
     color: white;
     background-color: #000000;
 }
 
 footer > h1{
-    padding: 10px;
     text-align: center;
     font-family: var(--fonte-titulo);
-}
-
-footer > p{
-    font-family: monospace;
-    text-align: justify;
-    text-justify: distribute;
 }

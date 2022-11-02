@@ -69,10 +69,11 @@ main{
 
 
  img{
-   width: 70%;
+   width: 80%;
    display: block;
    margin-left: auto;
    margin-right: auto;
+   bor
     }
 
     legend{
@@ -139,22 +140,3 @@ p{
     text-decoration: underline;
 }
 
-footer{
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-bottom: 20px;
-    color: white;
-    background-color: #000000;
-}
-
-footer > h1{
-    padding: 10px;
-    text-align: center;
-    font-family: var(--fonte-titulo);
-}
-
-footer > p{
-    font-family: monospace;
-    text-align: justify;
-    text-justify: distribute;
-}

@@ -67,17 +67,8 @@ main{
     max-width: 1000px;
 }
 
-
- img{
-   width: 70%;
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-    }
-
-    legend{
-        padding-bottom: 90px;
-        text-align: center;
+ .image{
+   width: 100%;
     }
 
     .img-pequena{
@@ -97,9 +88,10 @@ main{
 
  .texts{
     margin-bottom: 180px;
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.495);
+    box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, 0.347);
     border-radius: 5px;
-    
+    border-style: solid;
+    border-color: #101010 rgb(237, 213, 59);
     border-width: 12px;
 }
 
@@ -139,22 +131,3 @@ p{
     text-decoration: underline;
 }
 
-footer{
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-bottom: 20px;
-    color: white;
-    background-color: #000000;
-}
-
-footer > h1{
-    padding: 10px;
-    text-align: center;
-    font-family: var(--fonte-titulo);
-}
-
-footer > p{
-    font-family: monospace;
-    text-align: justify;
-    text-justify: distribute;
-}
