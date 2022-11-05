@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    background-color: rgb(237, 213, 59);
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+header > h1

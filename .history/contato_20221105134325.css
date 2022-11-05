@@ -21,9 +21,7 @@ header > h1{
 }
 
 button{
-    background-image: linear-gradient(to right, #e8ce09, #8d10ac, #458dfc);
-    color: white;
-    border: none;
+    background-image: linear-gradient(to right, #b49a3a, #8d10ac #458dfc);
     text-align: center;
     font-size: 20px;
     margin-left: 45vw;
