@@ -21,9 +21,7 @@ header{
     text-align: center;
 }
 
-#buttons > h1{
-    padding: 15px;
-}
+#buttons
 
 div #voltar {
     font-size: 30px;
