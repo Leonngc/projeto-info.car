@@ -169,28 +169,6 @@ footer > p{
     text-justify: distribute;
 }
 
-@media screen and (min-width: 400px){
-    p{
-        font-size: 1.1em;
-    }
-
-    .title-article{
-        font-size: 1.3em;
- 
-    }
-
-    .references{
-        font-size: 15px;
-        padding: 16px;
-    }
-
-    footer{
-        margin-left: 10px;
-        margin-right: 10px;
-        margin: auto;
-    }
-
-    footer >h1{
-        font-size: 18px;
-    }
+@media screen and (min-wit{
+    
 }

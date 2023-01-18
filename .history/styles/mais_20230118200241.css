@@ -56,6 +56,6 @@ iframe{
 @media screen and (min-width: 400px) {
     iframe{
         width: 50vw;
-        height: 30vh;
+        height: 20vh;
     }
 }
