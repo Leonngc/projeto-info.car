@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    background-color: yellow;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    
+}
+
+div #voltar {
+    font-size: 30px;
+    margin-left: 10px;
+}
+#back{
+    padding: 8px;
+    border: none;
+    border-radius: 6px;
+    background-color: yellow;
+    color: rgb(14, 13, 13);
+    font-size: 15px;
+    margin-top: 40px;
+    margin-bottom: 90px;
+}
+
+#back:hover{
+    text-decoration: underline;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    border: 2px solid black;
+    width: 60vw;
+    margin: auto;
+}
+
+.video{
+    margin: 10px;
+}
+
+iframe{
+    width: 30vw;
+    height: 35vh;
+}
