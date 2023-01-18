@@ -169,7 +169,7 @@ footer > p{
     text-justify: distribute;
 }
 
-@media screen and (min-width: 650px){
+@media screen and (min-width: 0px){
     p{
         font-size: 1.1em;
     }
