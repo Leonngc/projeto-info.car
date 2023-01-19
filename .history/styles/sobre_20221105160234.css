@@ -96,9 +96,3 @@ footer p > a{
     color: #f6f5ef;
     
 }
-
-@media screen and (max-width:400px){
-    header {
-        font-size: 1.1em;
-    }
-}
